@@ -1,0 +1,5 @@
+{
+  "name": "Maximus AI Chatbot",
+  "description": "An advanced AI chatbot that enhances user prompts through research and interactive optimization modes. Built with React, TypeScript, and Tailwind CSS, it features a sleek, dark-themed UI with smooth animations.",
+  "requestFramePermissions": []
+}
