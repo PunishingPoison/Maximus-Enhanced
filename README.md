@@ -1,3 +1,6 @@
+<img width="1919" height="979" alt="image" src="https://github.com/user-attachments/assets/1a50ded3-db33-411e-b364-dc0cdae8654a" />
+
+
 This contains everything you need to run the app locally.
 
 ## Run Locally
